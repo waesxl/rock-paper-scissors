@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://phonoteka.org/uploads/posts/2021-11/1637262039_2-phonoteka-org-p-fon-dlya-rabochego-stola-igri-minimalizm-k-2.jpg');
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    height: 1920px;
+}
+
+.game {
+    width: 500px;
+    background-image: url('https://phonoteka.org/uploads/posts/2022-01/1643229484_68-phonoteka-org-p-belii-zadnii-fon-71.jpg');
+    text-align: center;
+    margin-top: 500px;
+    margin-left: 500px;
+}
+
+.number-of-games, .user-item {
+    padding: 20px;
+    border: 5px solid white;
+    font-size: 18px;
+}
+
+.user-item {
+    margin-top: 20px;
+}
+
+.btn-start-game {
+    font-size: 18px;
+    color: white;
+    background-color: rgb(108, 167, 238);
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.btn-start-game {
+    margin: 15px;
+}
